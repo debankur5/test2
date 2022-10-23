@@ -1,0 +1,16 @@
+.top-profile{
+  position: absolute;
+  right: 500px;
+  top: 100px;
+  height: 400px;
+}
+.background{
+  height:680px;
+  width: 1380px;
+}
+.bottom-container{
+  right:500px;
+}
+  .text{
+  height:200px;
+}
